@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedi1680&label=Profile%20views&color=0e75b6&style=flat" alt="subedi1680" /> </p>
 
-- 🔭 I’m currently working on [eMATADAN](https://github.com/subedi1680/Minor-Project-1)
+- 🔭 I’m currently working on nothing.
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/subedi1680](https://github.com/subedi1680)
 
