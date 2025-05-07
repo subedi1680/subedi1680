@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedi1680&label=Profile%20views&color=0e75b6&style=flat" alt="subedi1680" /> </p>
 
-- 🔭 I’m currently working on CHAUTARI(College Project).
+- 🔭 I’m currently working on Major Project(College).
 
 - 🌱 I’m currently learning **MERN stack**
 
