@@ -10,5 +10,6 @@ Based in Uttam Chowk, Pokhara - 10;<br>
 - 📫 How to reach me: [subedi1680@gmail.com](mailto:subedi1680@gmail.com)
 - ⚡ Fun fact: I can solve rubiks cube in under 2 mins.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subedi1680&label=Profile%20views&color=0e75b6&style=plastic" alt="subedi1680" /> </p>
 ---
 
